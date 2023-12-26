@@ -1,0 +1,38 @@
+.arrow{
+    font-size: 40px;
+   
+}
+.arrows{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+   
+}
+
+.image-box{
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.image-box img{
+   background-color: aqua;
+   width: 300px;
+   height: 300px; 
+   padding: 10px;
+   padding: 25px;
+}
+
+
+.gallery{
+    margin-top: 80px;
+}
+.gallery img{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(83, 83, 208);
+    margin-right: 20px;
+    padding: 20px;
+}
